@@ -60,11 +60,3 @@ Here are some related project
 [THE_COPTER_GAME](https://github.com/hacker-404-error/THE_COPTER_GAME)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-### Created And Coded By:
-<a href="https://github.com/hacker-404-error"><img src="https://i.ibb.co/yYd2Xjb/In-Shot-20220309-143908060.png" alt="Avatar" style="border-radius: 50%; width:70px"></a>
-
-<a href = "https://github.com/hacker-404-error">Pritam Das</a>
-
-## 🔗 Feedback
-
-If you have any feedback, please reach out to me at [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-das-7489ab223/)
