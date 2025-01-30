@@ -44,11 +44,5 @@
 | `5` |DELETE RECORD |
 | `6` |EXIT |
 
-## Related
-
-Here are some related project
-
-[ SNAKE_GAME ](https://github.com/hacker-404-error/SnakeGame)<br>
-[THE_COPTER_GAME](https://github.com/hacker-404-error/THE_COPTER_GAME)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
